@@ -6,7 +6,7 @@ Code is depreciated, do reach out if you want to talk about this! Built using Sn
 
 # Links:
 - https://www.youtube.com/watch?v=Al4w4ebyPZY&feature=youtu.be 
-- https://drive.google.com/drive/u/0/search?q=SamplAR 
+- [https://drive.google.com/drive/u/0/search?q=SamplAR ](https://drive.google.com/file/d/14XlalhbaoEGfbQxlbhMkBHVn22tVnWxz/view?usp=sharing)
 - https://docs.google.com/presentation/d/1PjL2KXPwPC08pPcCWwHXYHVfdRfI6D7w/edit#slide=id.g308c8531bdd_0_218
 
 
